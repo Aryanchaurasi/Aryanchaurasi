@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Aryanchaurasia
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
 
 <!---
 Aryanchaurasi/Aryanchaurasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
