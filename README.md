@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan chaurasia </h1>
-<h3 align="center">MERN STACK DEVELOPER</h3>
+<h3 align="center">Machine Learning Engineer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -22,4 +22,3 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryanchaurasi&show_icons=true&locale=en&theme=highcontrast" alt="Aryanchaurasi" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanchaurasi&theme=highcontrast" alt="Aryanchaurasi" /></p>
